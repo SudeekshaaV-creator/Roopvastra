@@ -1,0 +1,23 @@
+{
+  "orderId": "order_TZ1Xq2K4Xm1gwH",
+  "paymentId": "pay_TZ1Y4OrBQmJfdv",
+  "verified": true,
+  "status": "PAID",
+  "verifiedAt": "2026-09-07T05:01:26.660Z",
+  "customer": {
+    "name": "SUDEEKSHAA V",
+    "mobile": "9843020628",
+    "email": "sudeekshaav2004@gmail.com",
+    "address": "9D3 Vrindavanam, Sathyamangalam, Tamil Nadu - 638401"
+  },
+  "items": [
+    {
+      "name": "Antique Matte Gold Temple Kemp Jhumkas",
+      "size": "Standard Size",
+      "quantity": 1,
+      "price": 499,
+      "image": "/images/accessories/earrings/earrings1.png"
+    }
+  ],
+  "totalAmount": 499
+}

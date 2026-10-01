@@ -1,0 +1,15 @@
+{
+  "recipient": "sudeekshaav2004@gmail.com",
+  "data": {
+    "fullName": "Test Customer",
+    "mobileNumber": "9345527013",
+    "emailAddress": "customer@example.com",
+    "outfitType": "Couple Outfit",
+    "selectedMaterial": "Blue Blouse Material",
+    "preferredColour": "Navy Blue",
+    "customizationRequirement": "Embroidery",
+    "designRequirements": "Test design requirements",
+    "submittedAt": "2026-09-06T19:57:34.179Z"
+  },
+  "receivedAt": "2026-09-06T19:57:34.188Z"
+}

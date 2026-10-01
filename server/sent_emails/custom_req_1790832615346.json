@@ -1,0 +1,19 @@
+{
+  "messageId": "01a0f5f1-1ff5-7680-a6e5-b4b5cf039ad8",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "provider": "resend",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "SUDEEKSHAA V",
+    "mobileNumber": "9345527013",
+    "emailAddress": "sudeekshaav2004@gmail.com",
+    "outfitType": "Blouse",
+    "selectedMaterial": "Plain Blouse Material",
+    "preferredColour": "pink",
+    "customizationRequirement": "Embroidery",
+    "referenceFileName": "aari.jfif",
+    "designRequirements": "Murugan design back",
+    "submittedAt": "2026-10-01T05:30:11.078Z"
+  },
+  "dispatchedAt": "2026-10-01T05:30:15.347Z"
+}

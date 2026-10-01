@@ -1,0 +1,12 @@
+{
+  "orderId": "order_TYtKc94TTi3OoM",
+  "paymentId": "pay_test_123",
+  "verified": true,
+  "status": "PAID",
+  "verifiedAt": "2026-09-06T20:58:53.083Z",
+  "customer": {
+    "name": "Test User"
+  },
+  "items": [],
+  "totalAmount": 990
+}

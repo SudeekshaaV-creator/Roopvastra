@@ -1,0 +1,19 @@
+{
+  "messageId": "13caf6c4-2402-4cc1-a1e8-070fcffc74d4",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "provider": "resend",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "Sudeekshaa V",
+    "mobileNumber": "9345527013",
+    "emailAddress": "sudeekshaav2004@gmail.com",
+    "outfitType": "Couple Outfit",
+    "selectedMaterial": "Blue Blouse Material",
+    "preferredColour": "As per material",
+    "customizationRequirement": "Embroidery",
+    "referenceFileName": "None uploaded",
+    "designRequirements": "Pure Kanchipuram Silk couple outfit with zari work for Sathyamangalam boutique inauguration.",
+    "submittedAt": "2026-09-06T20:17:38.665Z"
+  },
+  "dispatchedAt": "2026-09-06T20:17:39.504Z"
+}

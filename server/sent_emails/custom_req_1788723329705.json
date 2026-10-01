@@ -1,0 +1,18 @@
+{
+  "messageId": "<c44d04ed-798a-2d1a-0096-f3610af6e194@roopvastra.com>",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "sudeekshaa",
+    "mobileNumber": "6379796516",
+    "emailAddress": "reetha234@gmail.com",
+    "outfitType": "Blouse",
+    "selectedMaterial": "Red Blouse Material",
+    "preferredColour": "purple",
+    "customizationRequirement": "Neck Design",
+    "referenceFileName": "red blouse material2.jpg",
+    "designRequirements": "sleeve peacock pattern",
+    "submittedAt": "2026-09-06T19:35:29.469Z"
+  },
+  "dispatchedAt": "2026-09-06T19:35:29.705Z"
+}

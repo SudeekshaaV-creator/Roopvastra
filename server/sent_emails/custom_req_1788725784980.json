@@ -1,0 +1,19 @@
+{
+  "messageId": "a125bbdf-260e-4491-801f-cd7e4eb13d4d",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "provider": "resend",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "Sudeekshaa V",
+    "mobileNumber": "9345527013",
+    "emailAddress": "sudeekshaav2004@gmail.com",
+    "outfitType": "Couple Set (Traditional)",
+    "selectedMaterial": "Pure Kanchipuram Silk",
+    "preferredColour": "Royal Crimson & Antique Gold",
+    "customizationRequirement": "Bespoke Zari Border & Matching Stole",
+    "referenceFileName": "sample_swatch.jpg",
+    "designRequirements": "Grand South Indian wedding reception couple set with handloom zari borders matching both outfits.",
+    "submittedAt": "2026-09-06T20:16:24.981Z"
+  },
+  "dispatchedAt": "2026-09-06T20:16:24.981Z"
+}

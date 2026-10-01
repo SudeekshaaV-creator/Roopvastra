@@ -1,0 +1,19 @@
+{
+  "messageId": "cb038787-26e8-48ca-be8f-1fe0e418051f",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "provider": "resend",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "Viji",
+    "mobileNumber": "9843020628",
+    "emailAddress": "viji342@gmail.com",
+    "outfitType": "Blouse",
+    "selectedMaterial": "Plain Blouse Material",
+    "preferredColour": "pink",
+    "customizationRequirement": "Embroidery",
+    "referenceFileName": "red blouse material2.jpg",
+    "designRequirements": "stone work behind and long sleeve",
+    "submittedAt": "2026-09-06T20:20:54.613Z"
+  },
+  "dispatchedAt": "2026-09-06T20:20:58.076Z"
+}

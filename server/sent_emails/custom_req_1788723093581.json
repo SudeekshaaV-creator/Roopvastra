@@ -1,0 +1,18 @@
+{
+  "messageId": "<a8110c5b-2398-3a1f-5738-f2c91771eee4@roopvastra.com>",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "Aarthi Rajan",
+    "mobileNumber": "9345527013",
+    "emailAddress": "aarthi.rajan@example.com",
+    "outfitType": "Couple Outfit",
+    "selectedMaterial": "Blue Blouse Material",
+    "preferredColour": "As per material",
+    "customizationRequirement": "Embroidery",
+    "referenceFileName": "None uploaded",
+    "designRequirements": "Matching temple zari neckline for wedding reception ceremony.",
+    "submittedAt": "2026-09-06T19:31:33.544Z"
+  },
+  "dispatchedAt": "2026-09-06T19:31:33.582Z"
+}

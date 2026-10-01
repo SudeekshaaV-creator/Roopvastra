@@ -1,0 +1,18 @@
+{
+  "messageId": "<cdd723ce-cf3c-fcdd-e13d-2747d3537256@roopvastra.com>",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "Sudeekshaa Test",
+    "mobileNumber": "9345527013",
+    "emailAddress": "test@roopvastra.com",
+    "outfitType": "Couple Outfit",
+    "selectedMaterial": "Blue Blouse Material",
+    "preferredColour": "Royal Indigo & Gold",
+    "customizationRequirement": "Embroidery",
+    "referenceFileName": "test_reference.png",
+    "designRequirements": "Custom bridal embroidery along borders and sleeves.",
+    "submittedAt": "2026-09-06T19:30:11.505Z"
+  },
+  "dispatchedAt": "2026-09-06T19:30:11.505Z"
+}

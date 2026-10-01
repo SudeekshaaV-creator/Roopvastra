@@ -1,0 +1,19 @@
+{
+  "messageId": "26691b7b-26e8-433a-b835-12e742e71212",
+  "recipient": "sudeekshaav2004@gmail.com",
+  "provider": "resend",
+  "subject": "New Roop Vastra Customization Request",
+  "data": {
+    "fullName": "Sudeekshaa Ramesh",
+    "mobileNumber": "9345527013",
+    "emailAddress": "sudeekshaav2004@gmail.com",
+    "outfitType": "Couple Outfit",
+    "selectedMaterial": "Blue Blouse Material",
+    "preferredColour": "Royal Indigo & Antique Gold",
+    "customizationRequirement": "Embroidery",
+    "referenceFileName": "sample_blouse_sketch.png",
+    "designRequirements": "Bespoke couple reception ensemble with handcrafted Kanchipuram zari border and matching kurta detailing.",
+    "submittedAt": "2026-09-06T20:15:25.162Z"
+  },
+  "dispatchedAt": "2026-09-06T20:15:26.422Z"
+}

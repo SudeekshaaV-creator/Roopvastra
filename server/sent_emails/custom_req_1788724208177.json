@@ -1,0 +1,16 @@
+{
+  "recipient": "sudeekshaav2004@gmail.com",
+  "data": {
+    "fullName": "Sudeekshaa Test",
+    "mobileNumber": "9345527013",
+    "emailAddress": "test@roopvastra.com",
+    "outfitType": "Couple Outfit",
+    "selectedMaterial": "Blue Blouse Material",
+    "preferredColour": "Royal Indigo & Gold",
+    "customizationRequirement": "Embroidery",
+    "referenceFileName": "test_reference.png",
+    "designRequirements": "Custom bridal embroidery along borders and sleeves.",
+    "submittedAt": "2026-09-06T19:50:08.177Z"
+  },
+  "receivedAt": "2026-09-06T19:50:08.177Z"
+}

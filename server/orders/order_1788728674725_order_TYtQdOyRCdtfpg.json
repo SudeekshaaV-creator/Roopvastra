@@ -1,0 +1,22 @@
+{
+  "orderId": "order_TYtQdOyRCdtfpg",
+  "paymentId": "pay_test_1788728674711",
+  "verified": true,
+  "status": "PAID",
+  "verifiedAt": "2026-09-06T21:04:34.725Z",
+  "customer": {
+    "name": "Sudeekshaa V",
+    "mobile": "9345527013",
+    "email": "sudeekshaav2004@gmail.com",
+    "address": "Main Bazaar Road, Sathyamangalam, Tamil Nadu - 638401"
+  },
+  "items": [
+    {
+      "name": "Regal Temple Kada Bangles",
+      "price": 749,
+      "quantity": 1,
+      "size": "2.4"
+    }
+  ],
+  "totalAmount": 749
+}
